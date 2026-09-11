@@ -21,7 +21,7 @@
 ### 1. Panel Principal
 Interfaz central que gestiona el acceso a cada una de las calculadoras geométricas.
 
-<img width="500" alt="Inicio" src="<img width="355" height="182" alt="image" src="https://github.com/user-attachments/assets/c835f431-ea99-4ca7-9357-78fbece24b44" />
+<img width="355" height="182" alt="image" src="https://github.com/user-attachments/assets/c835f431-ea99-4ca7-9357-78fbece24b44" />
 " />
 
 ---
@@ -43,7 +43,7 @@ Procesamiento de datos basados en base y altura.
 ### 4. Calculadora de Triángulo
 Cálculos a partir de las dimensiones de sus lados.
 
-<img width="500" alt="Triángulo" src=<img width="408" height="316" alt="image" src="https://github.com/user-attachments/assets/a3f29351-758b-4841-a10e-04b6cd21db9f" />
+<img width="408" height="316" alt="image" src="https://github.com/user-attachments/assets/a3f29351-758b-4841-a10e-04b6cd21db9f" />
  />
 
 ---
@@ -51,5 +51,5 @@ Cálculos a partir de las dimensiones de sus lados.
 ### 5. Calculadora de Trapecio
 Evaluación de superficies y bordes según bases y lados laterales.
 
-<img width="500" alt="Trapecio" src=<img width="340" height="248" alt="image" src="https://github.com/user-attachments/assets/a63e7eab-7efd-4570-a970-f2d34a8bcb97" />
+<img width="340" height="248" alt="image" src="https://github.com/user-attachments/assets/a63e7eab-7efd-4570-a970-f2d34a8bcb97" />
  />
