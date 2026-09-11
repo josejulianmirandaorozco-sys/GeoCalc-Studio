@@ -28,14 +28,14 @@ Interfaz central que gestiona el acceso a cada una de las calculadoras geométri
 ### 2. Calculadora de Cuadrado
 Permite determinar el área y perímetro asignando la longitud de un lado.
 
-<img width="500" alt="Cuadrado" src="https://github.com/user-attachments/assets/b1c7da9c-e7d0-48df-8a0b-aab9a3617fc5"
+<img width="500" alt="Cuadrado" src="https://github.com/user-attachments/assets/b1c7da9c-e7d0-48df-8a0b-aab9a3617fc5"  />
 
 ---
 
 ### 3. Calculadora de Rectángulo
 Procesamiento de datos basados en base y altura.
 
-<img width="500" alt="Rectángulo" src="https://github.com/user-attachments/assets/ed592ec0-e4bb-407e-946b-4c4152436c98"
+<img width="500" alt="Rectángulo" src="https://github.com/user-attachments/assets/ed592ec0-e4bb-407e-946b-4c4152436c98"  />
 
 ---
 
